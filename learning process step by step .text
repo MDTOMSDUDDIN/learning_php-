@@ -1,0 +1,244 @@
+মোট ৪০ দিনে PHP প্রোগ্রামিং ল্যাংগুয়েজ শেখার টুডু-লিস্ট । লার্নিং লুপে পরে সময় যদি করতে না চাও "লস" ডেইলি টুডু-লিস্ট ধরে এগিয়ে যাও "বস" । শেয়ার করে রেখে দাও টাইমলাইনে, এই পোষ্ট আনবে তোমায় লাইনে । 
+
+(01) ইন্ট্রোডাকশন টু পিএইচপি এন্ড টুলস সেটআপ
+    ◼️What When Why  PHP
+    ◼️Tools required to go ahead
+    ◼️Regular PHP MySQL Setup
+    ◼️VS Code & its Extension Setup
+(02) রান ইউর ফার্স্ট কোড এন্ড এক্সপ্লোর এক্সিকিউশন
+    ◼️Write your First PHP Code & Run
+    ◼️Run from terminal command
+    ◼️Run from custom server & port
+    ◼️Run using PHP server extension
+    
+(03) শুরু থেকেই ডিবাগিং এর সাথে পরিচয়
+    ◼️Why Debugging important from day 01
+    ◼️XDebug Installation
+    ◼️Lets Debug Your First Code
+
+(04) ভেরিয়েবল
+    ◼️Why What How Variable
+    ◼️Variable Naming Conventions 
+    ◼️Variable Types
+    ◼️Find variable memory location
+    ◼️Why Memory Addresses Are Not Directly Exposed
+    ◼️Variable Scope local and global
+(05) কন্সট্যান্ট এন্ড কমেন্টস
+    ◼️What What How PHP constant
+    ◼️How to define and use PHP constant
+    ◼️How to define and use class constant
+    ◼️Single-Line Comments
+    ◼️Multi-Line Comments
+(06) কন্ডিশন If Else, Nested If Else এবং টার্নারি অপারেটর 
+    ◼️Why How What condition
+    ◼️PHP if else
+    ◼️PHP elseif
+    ◼️PHP elseif vs else if
+    ◼️Nested if else
+    ◼️Ternary Operators
+    
+(07) সুইচ কেইস স্টেটমেন্ট
+◼️Why How What Switch Case Statement
+◼️Example of switch case statement
+◼️What is switch case statement
+(08) পিএইচপি ফাংশন এন্ড প্যারামিটারস
+◼️Why How What is function
+◼️Built-in Functions
+◼️User-defined Functions
+◼️Function With Params
+◼️Function With Params Default Value
+(09) ফাংশন প্যারামিটার টাইপ, ভেরিয়াডিক , এনোনিমাস  
+◼️Type Hinting
+◼️Multiple type hinting in one parameter
+◼️Nullable type hints
+◼️Variadic Functions
+◼️Anonymous Functions (or Closures)
+(10) অ্যারো  রিকারসিভ কলব্যাক ফাংশন
+◼️Arrow functions
+◼️Recursive Functions
+◼️Callback Function
+(11) ফাংশন রিটার্ন টাইপস 
+◼️Basic Return Types
+◼️Nullable Return Type
+◼️Return Type of void
+◼️Union Return Types
+◼️Strict mode in PHP
+(12) পিএইচপি লুপ
+◼️Why What How PHP Loop
+◼️For Loop
+◼️While Loop
+◼️Do...While Loop
+◼️Foreach Loop
+◼️Continue
+◼️Break
+(13) পিএইচপি অ্যারে শুরু
+◼️Why What How PHP Array
+◼️How to write php array
+◼️Accessing Values
+◼️For Loop Through an Indexed Array
+◼️ForEach Loop Through an Indexed Array
+(14) অ্যাসোসিয়েটিভ অ্যারে, মাল্টিডাইমেনশনাল অ্যারে
+◼️Associative arrays
+◼️Multidimensional arrays
+◼️Associative Multidimensional Array
+(15) অ্যারে ক্রিয়েশন এন্ড ম্যানুপুলেশন মেথডস
+◼️Creates an array
+◼️Returns all the values from the array
+◼️Returns all the keys from the array
+◼️Combines two arrays
+◼️Fills an array with values
+◼️Adds one or more elements to the end of an array
+◼️Removes the last element from an array
+◼️Adds one or more elements to the beginning of an array
+◼️Removes the first element from an array
+◼️Removes a portion of the array and replaces it with something else
+◼️Extracts a portion of the array
+(16) অ্যারে ইনফরমেশন মেথডস
+◼️Array Information Functions
+◼️Counts the number of elements in an array
+◼️Computes the sum of values in an array
+◼️Computes the product of values in an array
+◼️Checks if a value exists in an array
+◼️Checks if a key exists in an array
+◼️Searches the array for a given value and returns the first corresponding key
+(17) অ্যারে ট্রান্সফরমেশন মেথডস
+◼️Applies a callback function to the elements of one or more arrays
+◼️Filters elements of an array using a callback function
+◼️Merges one or more arrays
+◼️Replaces values from one array to another
+◼️Exchanges all keys with their associated values in an array
+◼️Changes the case of all keys in an array
+◼️Returns the values from a single column of the input array
+(18) অ্যারে সর্টিং মেথডস
+◼️Sorts an array in ascending order
+◼️Sorts an array in descending order
+◼️Sorts an array and maintains index association
+◼️Sorts an array in reverse order and maintains index association
+◼️Sorts an array by key
+◼️Sorts an array by key in reverse order
+◼️Sorts an array using natural order algorithm
+◼️Sorts an array using a case-insensitive natural order algorithm
+◼️Sorts an array with a user-defined comparison function and maintains index association
+◼️Sorts an array by keys using a user-defined comparison function
+(19) মাল্টিডাইমেনশনাল অ্যারে মেথডস 
+◼️Multidimensional Arrays Functions
+◼️Sort multiple arrays at once
+◼️Returns the values from a single column in the input array
+◼️Applies a callback to the elements of the given array
+(20) অ্যারে ম্যাথ মেথডস 
+◼️Computes the difference of arrays
+◼️Computes the difference of arrays with additional index check
+◼️Computes the difference of arrays using keys for comparison
+◼️Computes the intersection of arrays
+◼️Computes the intersection of arrays with additional index check
+◼️Computes the intersection of arrays using keys for comparison
+(21) অ্যারে ইউটিলিডি মেথডস 
+◼️Removes duplicate values from an array
+◼️Returns an array with elements in reverse order.
+◼️Picks one or more random entries out of an array
+◼️Shuffles (randomizes the order of) the elements in an array
+◼️Creates an array containing a range of elements
+(22) ব্যাসিক স্ট্রিং মেথডস
+◼️Returns the length of the string
+◼️Counts the number of words in a string
+◼️Reverses the string
+◼️Finds the position of the first occurrence of a substring
+◼️Returns a portion of the string
+(23) স্ট্রিং ম্যানুপুলেশন 
+◼️Replaces all occurrences of the search string with the replacement.
+◼️Converts a string to lowercase.
+◼️Converts a string to uppercase.
+◼️Capitalizes the first letter of a string.
+◼️Capitalizes the first letter of each word in a string.
+◼️Removes whitespace or specified characters from the beginning and end of a string
+(24) এডভান্স স্ট্রিং মেথডস
+◼️Splits a string into an array by a delimiter.
+◼️Joins array elements into a single string with a glue string.
+◼️Splits a string into an array of equal-length substrings
+◼️Converts special characters to HTML entities.
+◼️Calculates the MD5 hash of a string
+(25) ওয়ার্কিং উইথ জেসন
+◼️Why What How JSON
+◼️Use case of JSON
+◼️JSON Encode
+◼️JSON Decode
+(26) ওয়ার্কিং উইথ সেশন
+◼️Why What How Session
+◼️Session Store Retrieve and Clear
+◼️Where Session store data
+◼️Advantages of Sessions
+◼️Limitations of Sessions
+(27) ওয়ার্কিং উইথ কুকি
+◼️Why What How Cookies
+◼️How to set , get & clear cookies
+◼️Cookies properties
+◼️Advantages
+◼️Limitations
+(28) টাইপ অফ পিএইচপি এরর
+◼️Parse Error
+◼️Fatal Error
+◼️Warning Error
+◼️Notice Error
+◼️Deprecated Error
+◼️Strict Error
+◼️Recoverable Fatal Error
+◼️User Errors
+(29) এরর হ্যান্ডেলিং
+◼️What How Why Error Handling
+◼️Throw new Exception
+◼️Handle exception with try catch block
+(30) ওয়ার্কিং উইথ ফাইল
+◼️Read a File
+◼️Write to a File
+◼️Append to a File
+◼️Delete a File
+(31) ওয়ার্কিং উইথ ফোল্ডার
+◼️Create a Folder
+◼️Delete a Folder
+◼️Read a Folder
+◼️Check Folder Existence
+(32) ওয়ার্কিং উইথ ডেট টাইম
+◼️Returns the current date and time in the specified format.
+◼️Formatting Dates
+◼️Working with Timestamps
+◼️Date and Time Difference
+◼️Getting Timezone Information
+ (33) (OOP) অবজেক্ট ওরিয়েন্টেড প্রোগ্রামিং শুরু
+◼️Why What How OOP
+◼️Class & Object
+◼️Accessing Class Properties Inside Class
+◼️Constructor
+◼️Constructor Parameters
+◼️Set Class variables value using constructor parameters
+(34) (OOP) স্ট্যাটিক
+◼️Static Properties
+◼️Static Methods
+◼️Accessing Static Properties Inside Class Methods
+(35) OOP ইনহেরিটেন্স এবস্ট্রাকশন ফাইনাল
+◼️Inheritance
+◼️Parent Keyword
+◼️Overriding Methods
+◼️Final Keyword
+◼️Abstract Classes
+(36) (OOP) ইনহেরিটেন্স কন্সট্রাক্টর এন্ড স্ট্যাটিক
+◼️Constructors and Inheritance
+◼️Static properties and Inheritance
+(37) (OOP) একসেস মডিফায়ার
+◼️Why What How Access modifiers
+◼️public – accessible everywhere
+◼️protected – accessible within the class and its subclasses (inheritance)
+◼️private – accessible only within the class itself
+(38) (OOP) ইন্টারফেইস
+◼️Why How What is Interface
+◼️Syntax of an Interface
+◼️Implementing an Interface
+◼️Multiple Interfaces
+ (39) (OOP) মেথড ওভারলোডিং
+ ◼️Why How What Method Overloading in PHP
+ ◼️Method overloading in PHP is achieved using the __call()
+ ◼️Method overloading in PHP is achieved using the __callStatic()
+(40) (OOP) এনক্যাপসুলেশন পলিমরফিজম
+◼️Why How What Encapsulation
+◼️Encapsulation example 
+◼️Why How What Polymorphism
+◼️Polymorphism example
